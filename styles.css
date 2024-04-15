@@ -1,0 +1,24 @@
+#table-container {
+  display: none;
+}
+
+table {
+  width: 30%;
+  border-collapse: initial;
+  font-weight: 200;
+  padding: 18px;
+  font-size:x-large
+}
+th {
+  background-color: blue;
+}
+
+td {
+  background-color: brown;
+}
+
+#generateTableBtn {
+  background-color: aqua;
+  font-size:large
+  
+}
